@@ -1,7 +1,7 @@
 ## MeArm micro:bit Control Board PCB
 
 <a href="https://shop.mearm.com/products/mearm-controller-board-for-micro-bit"><img src="https://cdn.shopify.com/s/files/1/0187/3430/files/usb_387d318f-2b19-4673-abe3-807ad459aa9b.jpg?v=1682597252&width=600" width="500px"><br/>
-Click here to purchase one from the Adafruit shop</a>
+Click here to purchase one from the MeArm shop</a>
 
 PCB files for the MeArm micro:bit Control Board PCB. Format is KiCad schematic and board layout
 * https://shop.mearm.com/products/mearm-controller-board-for-micro-bit
